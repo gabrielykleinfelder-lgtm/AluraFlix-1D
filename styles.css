@@ -1,5 +1,4 @@
 body {
-body {
     color: white;
     background: black;
     margin: 0px;
@@ -15,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: (rgb(255, 142, 255));
+    background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
